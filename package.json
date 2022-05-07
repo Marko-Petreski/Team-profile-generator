@@ -1,0 +1,23 @@
+{
+    "name": "homework-week-10-team-profile-generator",
+    "version": "1.0.0",
+    "description": "Team-profile-generator",
+    "main": "employeeHandler.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Marko-Petreski/Team-profile-generator.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Marko-Petreski/Team-profile-generator.git"
+    },
+    "homepage": "https://github.com/Marko-Petreski/Team-profile-generator.git",
+    "dependencies": {
+      "inquirer": "^8.1.2",
+      "jest": "^27.0.6"
+    }
